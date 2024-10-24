@@ -83,7 +83,7 @@ color:white
 
 
 
-#part 1 (بخش دوم فلکس باکس)
+# part 2 (بخش دوم فلکس باکس)
 <!DOCTYPE html>
 <html>
 <body>
