@@ -71,8 +71,8 @@ color:white
         <span>anvari</span>
         </div>
     </div>
-    <div class="content">header</div>
-    <div class="footer">header</div>
+    <div class="content">content</div>
+    <div class="footer">content</div>
 
 </div>
 
@@ -197,7 +197,7 @@ align-items:start;flex-direction:column}
     
     
     </div>
-    <div class="footer">header</div>
+    <div class="footer">footer</div>
 
 </div>
 
